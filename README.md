@@ -8,8 +8,6 @@
 
 
 
-
-
 ## settings
 
 <select> search settings
@@ -35,7 +33,12 @@
   <input type="submit" value="Submit"> 
 </form>
 
-</body>
-</html>
-
+	
+	
+	
+	  <a href="print.html"  
+    onclick="window.open('https://www.w3schools.com/', 
+                         'newwindow', 
+                         'width=300,height=250'); 
+              return false;">sucerly bypass</a>
 
