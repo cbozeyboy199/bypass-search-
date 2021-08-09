@@ -40,10 +40,10 @@
 	
 
 	  <a href="print.html"  
-    onclick="window.open(' ', 
+    onclick="window.open('troll ur class mates through wifi', 
                          'newwindow', 
                          'width=300,height=250'); 
-              return false;">report</a>
+              return false;">https://cbozeyboy199.github.io/admins-only/</a>
 	
 	
 	
