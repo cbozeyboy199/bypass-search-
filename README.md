@@ -12,7 +12,7 @@
 
 ## search settings
 
-<select>
+<select> search settings
 			<option value="ar">public search</option>
 			<option value="ar">private search</option> 
 	                <option value="ar">unblocked v1</option>
