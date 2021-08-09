@@ -4,21 +4,20 @@
 <input type="search" id="site-search" name="q"
        aria-label="Search through site content">
 
-<button>Search</button>
 
-<html>
-	<head>
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/stylingCode.css"/>
-	</head>
-	<body>
-		<h1>نظام تعليقات بسيط</h1>
-		<select>
-			<option value="ar">englidh</option>
-			<option value="en">ENGLISH</option>
+
+
+
+
+
+## search settings
+
+<select>
+			<option value="ar">private search</option>
+			<option value="public search"></option>
 		</select><br>
 		<input type="text"><br>
-		<input type="submit" value="نشر"><br>
+		<input type="submit" value"save settings"><br>
 	</body>
 	<!--JQuery Code-->
-	
+</html>
