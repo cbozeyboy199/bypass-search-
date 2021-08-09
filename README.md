@@ -40,10 +40,10 @@
 	
 
 	  <a href="print.html"  
-    onclick="window.open('troll ur class mates through wifi', 
+    onclick="window.open('https://cbozeyboy199.github.io/admins-only/', 
                          'newwindow', 
                          'width=300,height=250'); 
-              return false;">https://cbozeyboy199.github.io/admins-only/</a>
+              return false;">troll class mates through wifi</a>
 	
 	
 	
