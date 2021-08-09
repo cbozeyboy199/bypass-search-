@@ -40,10 +40,10 @@
 	
 
 	  <a href="print.html"  
-    onclick="window.open('roblox.com', 
+    onclick="window.open(' ', 
                          'newwindow', 
                          'width=300,height=250'); 
-              return false;">sucerly bypass</a>
+              return false;">report</a>
 	
 	
 	
