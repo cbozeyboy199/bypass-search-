@@ -6,20 +6,19 @@
 
 <button>Search</button>
 
-
-
-
-<!DOCTYPE html>
 <html>
-<body>
-
-<h1>submit ideas</h1>
-
-<form action="/action_page.php">
-  <label for="gsearch">ideas:</label>
-  <input type="search" id="gsearch" name="gsearch">
-  <input type="submit">
-</form>
-
-</body>
-</html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/stylingCode.css"/>
+	</head>
+	<body>
+		<h1>نظام تعليقات بسيط</h1>
+		<select>
+			<option value="ar">englidh</option>
+			<option value="en">ENGLISH</option>
+		</select><br>
+		<input type="text"><br>
+		<input type="submit" value="نشر"><br>
+	</body>
+	<!--JQuery Code-->
+	
