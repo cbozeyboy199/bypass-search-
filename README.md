@@ -20,7 +20,6 @@
 	                <option value="ar">private tab</option>
 	                 <option value="ar">fully private</option>
 		
-<!DOCTYPE html>
 <html>
 <body>
 
