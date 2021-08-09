@@ -13,11 +13,6 @@
 ## search settings
 
 <select>
-			<option value="ar">private search</option>
-			<option value="public search"></option>
-		</select><br>
-		<input type="text"><br>
-		<input type="submit" value"save settings"><br>
-	</body>
-	<!--JQuery Code-->
-</html>
+			<option value="ar">public search</option>
+			<option value="private search"></option>
+		
