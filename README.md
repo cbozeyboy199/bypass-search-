@@ -27,11 +27,11 @@
 <h1> </h1>
 
 <form action="/action_page.php">
-  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <input type="checkbox" id="vehicle1" name="device" value="pc">
   <label for="vehicle1">chromebook / pc bypass</label><br>
-  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <input type="checkbox" id="vehicle2" name="devic" value="android">
   <label for="vehicle2">android byapass</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <input type="checkbox" id="vehicle3" name="devicw" value="apple device">
   <label for="vehicle3">iphone bypass</label><br><br>
   <input type="submit" value="Submit"> 
 </form>
