@@ -1,4 +1,4 @@
-## bypass search 
+## bypass search dont forget choose ur device or it wont work
 
 <label for="site-search">Search the site:</label>
 <input type="search" id="site-search" name="q"
