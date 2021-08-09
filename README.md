@@ -1,4 +1,4 @@
-## bypass search dont forget choose ur device or it wont work
+## bypass search and troll class mates not finished yet
 
 <label for="site-search">Search the site:</label>
 <input type="search" id="site-search" name="q"
@@ -39,7 +39,7 @@
 	
 	
  <a href="print.html"  
-    onclick="window.open('https://cbozeyboy199.github.io/admins-only/', 
+    onclick="window.open('https://cbozeyboy199.github.io/troll-class/', 
                          'newwindow', 
                          'width=300,height=250'); 
               return false;">troll class mates through wifi</a>
