@@ -24,7 +24,7 @@
 <html>
 <body>
 
-<h1>Show Checkboxes</h1>
+<h1> </h1>
 
 <form action="/action_page.php">
   <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
