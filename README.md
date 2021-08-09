@@ -10,7 +10,7 @@
 
 
 
-## search settings
+## settings
 
 <select> search settings
 			<option value="ar">public search</option>
