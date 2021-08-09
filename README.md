@@ -5,3 +5,21 @@
        aria-label="Search through site content">
 
 <button>Search</button>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>submit ideas</h1>
+
+<form action="/action_page.php">
+  <label for="gsearch">ideas:</label>
+  <input type="search" id="gsearch" name="gsearch">
+  <input type="submit">
+</form>
+
+</body>
+</html>
