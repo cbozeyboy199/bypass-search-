@@ -20,3 +20,21 @@
 	                <option value="ar">private tab</option>
 	                 <option value="ar">fully private</option>
 		
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Show Checkboxes</h1>
+
+<form action="/action_page.php">
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1">chromebook / pc bypass</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2">android byapass</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3">iphone bypass</label><br><br>
+  <input type="submit" value="Submit"> 
+</form>
+
+</body>
+</html>
