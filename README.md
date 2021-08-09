@@ -14,5 +14,5 @@
 
 <select>
 			<option value="ar">public search</option>
-			<option value="private search"></option>
+			<option value="ar">private search</option>
 		
