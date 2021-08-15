@@ -62,7 +62,7 @@
     </div>
 </div>
 	
-<!DOCTYPE html>
+##  report bug
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -75,7 +75,7 @@
         <div id="wrapper">
             <div id="menu">
                 <p class="welcome">Welcome, <b></b></p>
-                <p class="logout"><a id="exit" href="#">Exit Chat</a></p>
+                <p class="logout"><a id="exit" href="#">Exit report station</a></p>
             </div>
  
             <div id="chatbox"></div>
