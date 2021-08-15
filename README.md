@@ -44,5 +44,21 @@
                          'width=300,height=250'); 
               return false;">troll class mates through wifi</a>
 	
-	
+	<div class="container-out">
+    <div class="container-in">
+    <div class="search-container">
+        <div class="search-engine">
+        <p class="search-title">Search Names</p>
+        <input
+            type="input"
+            id="search-input"
+            autocomplete="off"
+            placeholder="Hit Enter to Search"
+        />
+        </div>
+        <div id="search-results"></div>
+        <div id="search-data"></div>
+    </div>
+    </div>
+</div>
 	
