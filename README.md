@@ -48,7 +48,7 @@
     <div class="container-in">
     <div class="search-container">
         <div class="search-engine">
-        <p class="search-title">Search Names</p>
+        <p class="search-title">search for error type error name error will pop up if u have it</p>
         <input
             type="input"
             id="search-input"
