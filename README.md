@@ -1,4 +1,5 @@
-## bypass search and troll class mates not finished yet
+## bypass search
+Made by chris
 
 <label for="site-search">Search the site:</label>
 <input type="search" id="site-search" name="q"
@@ -33,7 +34,7 @@
   <input type="submit" value="Submit"> 
 </form>
 
-<p><em>test</em> <span style="text-decoration: underline; background-color: #ff6600;"><strong>message</strong></span></p>	
+<p><em>test
 	
 Made by chris im still working on device mode im bad at token logging 
 And this only works on pc rn this will be fully finished by
