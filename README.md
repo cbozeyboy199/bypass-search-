@@ -33,7 +33,7 @@
   <input type="submit" value="Submit"> 
 </form>
 
-	
+<p><em>test</em> <span style="text-decoration: underline; background-color: #ff6600;"><strong>message</strong></span></p>	
 	
 Made by chris im still working on device mode im bad at token logging 
 And this only works on pc rn this will be fully finished by
