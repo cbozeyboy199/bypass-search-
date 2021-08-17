@@ -6,7 +6,9 @@ Made by chris
        aria-label="Search through site content">
 
 
-
+<div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup">stats</span>
+</div>
 
 
 ## settings
