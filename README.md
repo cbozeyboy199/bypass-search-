@@ -4,6 +4,7 @@ Made by chris
 <label for="site-search">Search the site:</label>
 <input type="search" id="site-search" name="q"
        aria-label="Search through site content">
+<button type="button" onclick="alert('loading...')">search</button>  
 
 
 <div class="popup" onclick="myFunction()">Click me!
